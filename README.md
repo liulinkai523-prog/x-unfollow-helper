@@ -21,7 +21,7 @@
 
 ## 下载
 
-[下载 V7.5 插件 ZIP](https://github.com/liulinkai523-prog/x-unfollow-helper/raw/refs/heads/main/X-Unfollow-V7.5.zip)
+[下载 V7.5 插件 ZIP](https://github.com/liulinkai523-prog/x-unfollow-helper/releases/download/v7.5/X-Unfollow-V7.5.zip)
 
 ## 安装
 
