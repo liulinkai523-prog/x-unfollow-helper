@@ -19,9 +19,13 @@
 
 不包含粉丝数读取、筛选或万粉保护，也不包含批量回关。
 
+## 下载
+
+[下载 V7.5 插件 ZIP](https://github.com/liulinkai523-prog/x-unfollow-helper/raw/refs/heads/main/X-Unfollow-V7.5.zip)
+
 ## 安装
 
-1. 下载仓库 ZIP 并解压到固定文件夹。
+1. 点击上方链接下载插件 ZIP，并解压到固定文件夹。
 2. 打开 Chrome 的 `chrome://extensions`，开启开发者模式。
 3. 点击“加载已解压的扩展程序”，选择包含 `manifest.json` 的文件夹。
 4. 刷新 X 页面。
